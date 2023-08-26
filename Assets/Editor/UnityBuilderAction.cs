@@ -12,7 +12,7 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "Dragon Wallpaper";
-        private static string COMPANY_NAME = "1693013113047402208967";
+        private static string COMPANY_NAME = "1693028642556571763289";
         private static string BUILD_VERSION_NAME = "2.0.0";
         private static string PACKAGENAME = "com.finance.fastmoney.applyloanonpancard";
         private static string PATH_KEYSTORE = "data.keystore";
